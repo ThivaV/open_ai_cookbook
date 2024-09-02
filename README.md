@@ -1,2 +1,1 @@
-# open_ai_cookbook
-OpenAI Cookbook
+# OpenAI Cookbooks
